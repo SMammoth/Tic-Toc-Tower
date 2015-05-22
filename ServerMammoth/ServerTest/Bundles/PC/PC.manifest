@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scences/main
+      Dependencies:
+        Dependency_0: player
+    Info_1:
+      Name: player
+      Dependencies: {}
